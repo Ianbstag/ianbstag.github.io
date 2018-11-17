@@ -335,7 +335,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"index.html#custom-html-i\" data-toolbar=\"-mbrBtnMove\">&nbsp;BOOK A TABLE&nbsp;</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"page1.html#slider1-4\" data-toolbar=\"-mbrBtnMove\">&nbsp;ROSSO ROOMS&nbsp;</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://www.ilrosso.co.uk/gift-vouchers.html\" data-toolbar=\"-mbrBtnMove\">GIFT VOUCHERS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"index.html#custom-html-i\" data-toolbar=\"-mbrBtnMove\">&nbsp;BOOK A TABLE&nbsp;</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"page1.html#slider1-4\" data-toolbar=\"-mbrBtnMove\">&nbsp;ROSSO ROOMS&nbsp;</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://ilrosso.giftpro.co.uk/\" data-toolbar=\"-mbrBtnMove\">GIFT VOUCHERS</a>"
               }
             ]
           }
